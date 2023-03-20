@@ -1,7 +1,8 @@
 # Grants-Demographics-Analysis
 
 
-# Question: How likely is it that minority groups get grad-level grants for school?
+# Question: 
+How likely is it that minority groups get grad-level grants for school?
 
 
 
